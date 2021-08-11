@@ -1,0 +1,9 @@
+{
+	"name": "ADLS-DF400",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "61793305-e1db-4c2c-926f-6056041e463c",
+		"tenantId": "c5177141-4db9-4c0f-aad2-2d4930ceafbd"
+	}
+}
